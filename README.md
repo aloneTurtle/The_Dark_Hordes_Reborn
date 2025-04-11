@@ -17,3 +17,5 @@ Clone this repository and put it in your `add-ons` directory. This is for versio
 ***
 
 If you would like to contact the current developer KameRamen regarding this, please create an issue or [email](mailto:hiroki.hatanaka@proton.me) me.
+
+Or please post in the new forum thread: https://r.wesnoth.org/t59211
